@@ -1,0 +1,7 @@
+# sst
+.sst
+
+# Visual Studio Code configs
+.vscode
+
+node_modules
